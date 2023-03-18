@@ -6,9 +6,11 @@ Pandas, Matplotlibpyplot, seaborn.
 
 CONTENIDO  
 
+CONTENIDO
+
 1.Importación del dataset.  
 2.Información general del dataset.  
 3.Estadísticas.  
-4.Gráficos.  
-5.Preguntas de negocio.  
-6.Fuente del dataset  
+4.Preguntas de negocio.  
+5.Conclusiones.  
+6.Fuente del dataset.  
